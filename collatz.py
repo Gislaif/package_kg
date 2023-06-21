@@ -8,4 +8,3 @@ while x !=1:
     else:
         print((3*x)+1)
         x=3*x+1
-

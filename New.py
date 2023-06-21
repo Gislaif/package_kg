@@ -42,13 +42,3 @@ if package_weight>0 and package_weight<=20:
     print(20*package_count-total_weight)
     print("Package is the most used capacity:" , package_number)
     print("The most unused capacity in package: ", max_unused_capacity)
-
-
-
-
-
-
-
-
-
-
